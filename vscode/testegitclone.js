@@ -20,19 +20,3 @@ while(!(b == a)){
 console.log("você adivinhou o número secreto :)")
 
 console.log("foram realizadas " + contagem + " tentativas")
-//comentario1
-//comentario2
-//comentario3
-//coment4
-//coment5
-//coment6
-//coment7
-//coment8
-//coment9
-//coment10
-//11
-//12
-//13
-//14
-//15
-//16
