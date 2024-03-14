@@ -23,3 +23,4 @@ console.log("foram realizadas " + contagem + " tentativas")
 //01
 //02
 //03
+//04
