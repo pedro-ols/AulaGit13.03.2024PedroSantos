@@ -22,3 +22,4 @@ console.log("você adivinhou o número secreto :)")
 console.log("foram realizadas " + contagem + " tentativas")
 //01
 //02
+//03
